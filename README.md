@@ -1,11 +1,11 @@
-![masterhead](https://i.pinimg.com/736x/bf/3e/4a/bf3e4a5f6d1545492eea8e7d42a6a804.jpg)
+<img align="center" width="1280" src="https://i.pinimg.com/736x/bf/3e/4a/bf3e4a5f6d1545492eea8e7d42a6a804.jpg">
 <h1 align="center">Hi 👋, I'm peok917</h1>
 <h3 align="center">hy Im from indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/chdOefk0RGpcs2BV7FwqaZckhlInOj1E4ncUpopjBUY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eU1SSzY5Ykhab1lB/QUFBQy9uYWhpZGEt/c2FkLWNhdC1kYW5j/ZS5naWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peok917&label=Profile%20views&color=0e75b6&style=flat" alt="peok917" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pepok917" target="blank"><img src="https://img.shields.io/twitter/follow/pepok917?logo=twitter&style=for-the-badge" alt="pepok917" /></a> </p>
+<p align="left"> <a href="https://twitter.com/peok917" target="blank"><img src="https://img.shields.io/twitter/follow/peok917?logo=twitter&style=for-the-badge" alt="peok917" /></a> </p>
 
 - 🔭 I’m currently working on **subquids**
 
