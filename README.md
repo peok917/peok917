@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/cYW5YCW/github.jpg" alt="github" border="0" class="center" width="960" >
+<img src="https://i.pinimg.com/originals/3c/2a/b8/3c2ab83ad8ea724fce643fef0e4776de.jpg" alt="github" border="0" class="center" width="960" >
 <h1 align="center">Hi 👋, I'm peok917</h1>
 <h3 align="center">hy Im from indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/chdOefk0RGpcs2BV7FwqaZckhlInOj1E4ncUpopjBUY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eU1SSzY5Ykhab1lB/QUFBQy9uYWhpZGEt/c2FkLWNhdC1kYW5j/ZS5naWY.gif">
